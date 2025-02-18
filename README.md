@@ -11,7 +11,7 @@ Alaska Airline picture: https://thejetset.com/travel/articles/insight/airline-ne
 
 
 
-#To successfully run the code, you need the following :
+# To successfully run the code, you need the following :
 
 Python 3.x
 
@@ -23,7 +23,7 @@ Seaborn
 
 IPython
 
-#To install the required packages, you can use the following commands:
+# To install the required packages, you can use the following commands:
 pip install pandas matplotlib seaborn ipython
 
 Thank You 
